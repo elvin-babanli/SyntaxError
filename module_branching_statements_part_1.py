@@ -53,8 +53,8 @@ else:
 
 # ----------------TASK_3---------------#
 
-# The user types in the number of meters. 
-# Based on the user's choice, the program converts meters to miles, inches, or yards.
+# The user types in the number of meters.
+# Based on the user's choice, the program converts meters to miles, inches, or yards. 
 
 
 value = float(input("Add your value (Only Meters): "))
