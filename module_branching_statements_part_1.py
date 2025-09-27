@@ -2,7 +2,8 @@
 # Part 1 
 
 #----------------TASK_1---------------#
-#The user types in three numbers. 
+
+# The user types in three numbers. 
 # The program prints the sum or product of these numbers based on the user's choice. 
 
 num_1=float(input("Number 1: "))
@@ -21,7 +22,8 @@ else:
 
 
 #----------------TASK_2---------------#
-#The user types in three numbers. 
+
+# The user types in three numbers. 
 # Based on the user's choice, the program prints a maximum of three, 
 # a minimum of three, or arithmetic mean of three numbers.
 
@@ -50,6 +52,7 @@ else:
 
 
 # ----------------TASK_3---------------#
+
 # The user types in the number of meters. 
 # Based on the user's choice, the program converts meters to miles, inches, or yards.
 
