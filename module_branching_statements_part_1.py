@@ -2,7 +2,6 @@
 # Part 1 
 
 #----------------TASK_1---------------#
-
 #The user types in three numbers. 
 # The program prints the sum or product of these numbers based on the user's choice. 
 
@@ -21,9 +20,7 @@ else:
     print("wrong")
 
 
-
 #----------------TASK_2---------------#
-
 #The user types in three numbers. 
 # Based on the user's choice, the program prints a maximum of three, 
 # a minimum of three, or arithmetic mean of three numbers.
@@ -52,10 +49,7 @@ else:
     print("Wrong")
 
 
-
-
 # ----------------TASK_3---------------#
-
 # The user types in the number of meters. 
 # Based on the user's choice, the program converts meters to miles, inches, or yards.
 
