@@ -16,7 +16,6 @@ if choose == "sum":
     print(num_1+num_2+num_3)
 elif choose =="product":
     print(num_1*num_2*num_3)
-
 else:
     print("wrong")
 
@@ -46,7 +45,6 @@ elif option == "min":
 elif option == "mean":
     mean = (number_1 + number_2 + number_3)/3
     print("Mean is:", mean)
-
 else:
     print("Wrong")
 
