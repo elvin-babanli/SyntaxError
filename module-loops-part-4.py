@@ -4,7 +4,9 @@
 #----------------TASK_1---------------#
 
 
-# The user types in two numbers (start and end points of the range). 
+# The user types in two numbers (start and end points of the range).
+
+
 # Analyze all the numbers in this range as follows: if the number is a multiple of 7, print it.
 
 first = int(input("Add your first number here: "))
