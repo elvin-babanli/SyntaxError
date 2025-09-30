@@ -92,8 +92,6 @@ def olives(func):
         return func() + " + olives"
     return wrapper
 
-
-
 choice = input("Choose pizza: margarita, capricosa, four_cheeses, hawaiian: (M)(C)(F)(H) ").lower()
 
 if choice == "m":
