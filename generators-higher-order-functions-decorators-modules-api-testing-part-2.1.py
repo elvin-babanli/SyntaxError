@@ -76,6 +76,7 @@ def hawaiian(func):
     return wrapper
 
 
+
 def mushrooms(func):
     def wrapper():
         return func() + " + mushrooms"
