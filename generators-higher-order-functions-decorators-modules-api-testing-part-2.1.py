@@ -55,8 +55,6 @@ print("Maximum:", find_min_or_max(lst, max_lst))
 def pizza_base():
     return "Pizza with dough"
 
-
-
 def margarita(func):
     def wrapper():
         return func() + " + tomato sauce + cheese"
