@@ -17,7 +17,7 @@ for prime in print_range(10, 30):
 
 #-------------------------TASK_2--------------------
 
-# I got help from AI :/
+
 
 def is_armstrong(n):
     digits = list(map(int, str(n)))
