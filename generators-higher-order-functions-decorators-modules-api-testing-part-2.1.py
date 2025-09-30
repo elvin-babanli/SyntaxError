@@ -1,4 +1,5 @@
 #-------------------------TASK_1--------------------
+
 def check_prime(n):
     if n <= 1:
         return False
@@ -34,6 +35,8 @@ for a in armstrong_range(100, 999):
 
 
 #-------------------------TASK_3--------------------
+
+
 lst = [1,3,5,7,9]
 
 def min_lst(num):
