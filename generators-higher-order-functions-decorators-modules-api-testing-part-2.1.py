@@ -18,7 +18,6 @@ for prime in print_range(10, 30):
 #-------------------------TASK_2--------------------
 
 
-
 def is_armstrong(n):
     digits = list(map(int, str(n)))
     power = len(digits)
