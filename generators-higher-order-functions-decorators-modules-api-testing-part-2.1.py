@@ -1,5 +1,8 @@
 #-------------------------TASK_1--------------------
 
+
+
+
 def check_prime(n):
     if n <= 1:
         return False
