@@ -104,7 +104,6 @@ elif choice == "h":
 else:
     pizza = pizza_base
 
-
 extra_choice = input("Add extra? mushrooms, pepperoni, olives, none: (M)(P)(O)(N) ").lower()
 
 if extra_choice == "m":
