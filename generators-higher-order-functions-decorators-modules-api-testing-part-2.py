@@ -1,5 +1,4 @@
 #----------------------TASK_1--------------------
-
 def fib_range(start, end):
     x, y = 0, 1
     while x <= end:
@@ -12,7 +11,6 @@ for num in fib_range(5, 30):
     print(num)
 
 #----------------------TASK_2--------------------
-
 list1 = [1, 4, 2]
 list2 = [3, 6, 5, 5]
 
@@ -30,7 +28,6 @@ for val in sum_lists(list1, list2):
 
 #----------------------TASK_3--------------------
 
-
 nums = [1,2,3,4]
 
 def square(x):
@@ -39,7 +36,6 @@ def square(x):
 
 def cube(x):
     return x ** 3
-
 
 
 def calculate(list_to_work, function_to_call):
