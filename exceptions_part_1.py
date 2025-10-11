@@ -1,7 +1,5 @@
 # Module: Exceptions
 # Part 1
-
-
 #----------------TASK_1---------------#
 
 try:
@@ -17,8 +15,6 @@ except ValueError:
 
 
 #----------------TASK_2---------------#
-
-
 # Exception inside here!
 
 def user_welcome(name_2,age_2):
