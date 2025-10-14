@@ -2,7 +2,6 @@
 # Part 2
 
 #----------------TASK_1---------------#
-
 def list_product(numbers):
     result = 1
     for num in numbers:
@@ -19,8 +18,6 @@ print("Product: ", list_product(number_list))
 
 def find_min(list):
     return min(list)
-
-
 
 num_1 = int(input("Add 1th numbers: "))
 num_2 = int(input("Add 2th numbers: "))
@@ -60,8 +57,6 @@ print("How many prime numbers are in range:", result)
 
 #----------------TASK_4---------------#
 
-# I got help from AI
-
 def remove_target(numbers, target):
     removed_count = numbers.count(target) 
     numbers = [num for num in numbers if num != target]
@@ -85,12 +80,3 @@ list_2 = [2,4,6,8]
 
 total = mix_list(list_1, list_2)
 print("Mix list ", total)
-
-#----------------TASK_6---------------#
-
-# Write a function that calculates the power of each element from the list of integers. 
-# A value for the power is passed as a parameter, the list is also passed as a parameter. 
-# The function returns a new list containing the results.
-
-# I couldn't do it :/
-# I will try it later.
