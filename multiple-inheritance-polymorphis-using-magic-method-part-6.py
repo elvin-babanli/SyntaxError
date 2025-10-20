@@ -12,7 +12,6 @@ class Rectangle(Shape):
    
     def area(self):
         return self.width * self.height
-
         
 class Circle(Shape):
     def __init__(self, radius):
