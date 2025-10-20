@@ -1,5 +1,6 @@
 #-------------------------------------Task_1---------------------------------
 
+
 class Shape:
     def __str__(self):
         return f"{self.__class__.__name__} with area: {self.area()}"
