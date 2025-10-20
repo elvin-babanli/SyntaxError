@@ -1,6 +1,5 @@
 #-------------------------------------Task_1---------------------------------
 
-
 class Shape:
     def __str__(self):
         return f"{self.__class__.__name__} with area: {self.area()}"
@@ -47,6 +46,7 @@ print(rightTriangle)
 
 trapezoid = Trapezoid(2,3,5)
 print(trapezoid)
+
 
 
 
@@ -102,7 +102,6 @@ class Trapezoid(Shape):
     
     def __str__(self):
         return f"Trapezoid: width_1={self.a}, width_2={self.b}, height={self.h}, area={self.area()}"
-
 
 
 
@@ -261,7 +260,6 @@ shapes_list = [
 ]
 
 save_shapes("shapes.txt", shapes_list)
-
 
 loaded_list = load_shapes("shapes.txt")
 
