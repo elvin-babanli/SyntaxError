@@ -7,8 +7,6 @@
 # Store the player's full name and height. 
 # Provide the possibility to add, delete, search, and replace data. Use a dictionary to store information.
 
-
-
 players = {}
 
 def add_player():
