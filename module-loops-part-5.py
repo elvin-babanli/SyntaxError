@@ -1,6 +1,3 @@
-# Module Loops
-# Part 5
-
 #----------------TASK_1---------------#
 
 # The user types in two numbers. 
@@ -113,8 +110,6 @@ while True:
 # The program must calculate their sum and find the maximum and minimum.
 # When the user types in 7, the program stops and prints "Good bye!".
 
-
-# I GOT BIG HELP FOR TASK_4 FROM AI (SORRY)
 sum = 0
 max = None
 min = None
@@ -136,3 +131,6 @@ while True:
 print("Sum: ",sum)
 print("Max: ", max)
 print("Min: ", min)
+
+
+
