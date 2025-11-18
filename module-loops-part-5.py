@@ -4,6 +4,7 @@
 # Find the sum of all even, odd numbers and 
 # multiples of 9 in the specified range, as well as arithmetic mean of each group.
 
+
 start  = int(input("First num: "))
 end = int(input("Second num: "))
 
