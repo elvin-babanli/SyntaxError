@@ -68,3 +68,4 @@ if choose_4 == choose2_4:
 
 else:
     print(sorted([choose_4, choose2_4]))
+
